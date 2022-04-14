@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, NodeJS**
 
-- 📫 How to reach me **harun.nurrahman@hotmail.com**
+- 📫 How to reach me **harun.nurrahman@gmail.com**
 
 - ⚡ Another thing **I also stream on Twitch when I have some free time and want to play some competitive or casual games. You can check my Twitch channel at https://www.twitch.tv/harunamanya**
 
