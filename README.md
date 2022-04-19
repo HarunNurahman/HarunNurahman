@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, My Name is Harun Nurahman</h1>
 <h3 align="center">I'm a passionate Mobile Developer from Bandung, Indonesia</h3>
 
-- 🌱 I’m currently learning **Dart, Flutter, NodeJS**
+- 🌱 I’m currently learning **Dart, Flutter, Laravel**
 
 - 📫 How to reach me **harun.nurrahman@gmail.com**
 
