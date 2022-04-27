@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **harun.nurrahman@gmail.com / harun.nurrahman@hotmail.com**
 
-- ⚡ Another thing **I also stream on Twitch when I have some free time and want to play some competitive or casual games. You can check my Twitch channel at https://www.twitch.tv/harunamanya**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harunnurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harunnurahman" height="30" width="40" /></a>
