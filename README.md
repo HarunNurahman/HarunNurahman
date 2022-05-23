@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, My Name is Harun Nurahman</h1>
 <h3 align="center">I'm a passionate Mobile Developer from Bandung, Indonesia</h3>
 
-- 🌱 I'm currently learning **Dart and Flutter** for mobile application development, especially Android App. It's been 1 month and I enjoy using Flutter. Currently, I'm practicing design to code implementation. For the next steps, I wanna learn to integrate with API or Firebase for authentication.
+- 🌱 I'm currently learning **Dart and Flutter** for mobile application development, especially Android App. It's my 1st year and I enjoy using Flutter. Currently, I'm practicing design to code implementation. For the next steps, I wanna learn to integrate with API or Firebase for authentication.
 
 - 📫 How to reach me **harun.nurrahman@gmail.com / harun.nurrahman@hotmail.com**
 
