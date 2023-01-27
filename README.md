@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/harunnurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harunnurahman" height="30" width="40" /></a>
 <a href="https://instagram.com/harunnurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harunnurahman" height="30" width="40" /></a>
 <a href="https://dribbble.com/harunamanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harunamanya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/harun nurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harun nurahman" height="30" width="40" /></a>
 <a href="https://discord.gg/Harunamanya#9387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Harunamanya#9387" height="30" width="40" /></a>
 </p>
 
