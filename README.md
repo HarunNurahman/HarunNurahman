@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, My Name is Harun Nurahman</h1>
-<h3 align="center">I'm a Junior Mobile Developer from Bandung, Indonesia</h3>
+<h3 align="center">I'm a Mobile Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunnurahman&label=Profile%20views&color=0e75b6&style=flat-square" alt="harunnurahman" /> </p>
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I am currently learning **Flutter** and I have been using Flutter for over 1 year. I've contributed to numerous projects, consistently meeting objectives and demonstrating the capability to write clean code with good architecture.
 
 - 👨‍💻 All of my projects are available on my GitHub [https://github.com/HarunNurahman](https://github.com/HarunNurahman)
 
